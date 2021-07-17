@@ -9,3 +9,5 @@ Made with React JS, this app is a text editor for HTML, CSS and JavaScript with 
 4. Open terminal and navigate to the directory.
 5. Type: "npm install"
 6. Then type "npm start" and the app will open up in your browser.
+
+Checkout the app at: https://naman7778.github.io/Online_Code_Editor/
