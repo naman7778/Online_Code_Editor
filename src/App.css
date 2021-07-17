@@ -1,0 +1,109 @@
+body{
+  overflow: hidden;
+  background: #131419;
+  color: #faf5f5
+}
+.header{
+  height: 50px;
+  font-size: x-large;
+  padding-top: 30px;
+  padding-left: 30px;
+  font-weight: bold;
+  background: linear-gradient(145deg, #111217, #14151b);
+box-shadow:  6px 6px 12px #0c0c0f,
+             -6px -6px 12px #1a1c23;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  margin: 15px;
+  color: #03a9f4;
+}
+
+.maincontainer{
+  display: flex;
+  height: 80vh;
+  background: linear-gradient(145deg, #111217, #14151b);
+box-shadow:  6px 6px 12px #0c0c0f,
+             -6px -6px 12px #1a1c23;
+  border-radius: 30px;
+  padding: 10px;
+  margin: 15px;
+}
+
+.filexp{
+  flex:2;
+  border-radius: 30px;
+  padding: 10px;
+}
+.share{
+  align-self: center;
+  margin-top: 400px;
+  font-size: medium;
+  height: 40px;
+  width: 140px;
+  box-shadow:  6px 6px 12px #0e0e12,
+             -6px -6px 12px #181a20;
+  border-radius: 30px;
+  background: #131419;
+  border-width: 0;
+  color:#03a9f4;
+}
+.share:active{
+  box-shadow:  inset 6px 6px 12px #0e0e12,
+             inset -6px -6px 12px #181a20;
+}
+.editors{
+  flex:4;
+  display: flex;
+  /* flex-direction: column; */
+  max-width: "33%";
+  border-radius: 30px;
+  box-shadow: inset 6px 6px 12px #0e0f13,
+            inset -6px -6px 12px #18191f;
+  
+}
+
+.editor{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+  padding-left: 10px;
+}
+
+ul li:hover{
+  cursor: pointer;
+  color: teal;
+}
+ul li:active{
+  color:maroon;
+}
+ul li:visited{
+  color:maroon;
+}
+ul li{
+  margin-top:5
+}
+
+.editor .filename{
+  margin-top: 30px;
+  margin-left: 30px;
+  color: maroon;
+  font-size: large;
+  z-index: 100;
+}
+
+.output{
+  flex:6;
+  border-radius: 30px;
+  margin-left: 20px;
+  background: white;
+box-shadow:  6px 6px 12px #0c0c0f,
+             -6px -6px 12px #1a1c23;
+  padding: 30px;
+  
+}
+
+textarea.npm__react-simple-code-editor__textarea{
+outline: none;
+max-width: "100%" !important;
+}
