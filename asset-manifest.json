@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Online_Code_Editor/static/css/main.a924b1e2.chunk.css",
+    "main.js": "/Online_Code_Editor/static/js/main.2bf6d19e.chunk.js",
+    "main.js.map": "/Online_Code_Editor/static/js/main.2bf6d19e.chunk.js.map",
+    "runtime-main.js": "/Online_Code_Editor/static/js/runtime-main.2332f71e.js",
+    "runtime-main.js.map": "/Online_Code_Editor/static/js/runtime-main.2332f71e.js.map",
+    "static/css/2.883f857c.chunk.css": "/Online_Code_Editor/static/css/2.883f857c.chunk.css",
+    "static/js/2.72480584.chunk.js": "/Online_Code_Editor/static/js/2.72480584.chunk.js",
+    "static/js/2.72480584.chunk.js.map": "/Online_Code_Editor/static/js/2.72480584.chunk.js.map",
+    "static/js/3.d0628c95.chunk.js": "/Online_Code_Editor/static/js/3.d0628c95.chunk.js",
+    "static/js/3.d0628c95.chunk.js.map": "/Online_Code_Editor/static/js/3.d0628c95.chunk.js.map",
+    "index.html": "/Online_Code_Editor/index.html",
+    "static/css/2.883f857c.chunk.css.map": "/Online_Code_Editor/static/css/2.883f857c.chunk.css.map",
+    "static/css/main.a924b1e2.chunk.css.map": "/Online_Code_Editor/static/css/main.a924b1e2.chunk.css.map",
+    "static/js/2.72480584.chunk.js.LICENSE.txt": "/Online_Code_Editor/static/js/2.72480584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2332f71e.js",
+    "static/css/2.883f857c.chunk.css",
+    "static/js/2.72480584.chunk.js",
+    "static/css/main.a924b1e2.chunk.css",
+    "static/js/main.2bf6d19e.chunk.js"
+  ]
+}
