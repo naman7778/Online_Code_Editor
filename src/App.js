@@ -133,7 +133,7 @@ export class App extends Component {
                 index.js
               </li>
             </ul>
-            <button className="share" onClick={() => this.shareFile()} >Share File</button>
+            
           </section>
           <section className="editors">
               <Editor active={this.state.activeFile=="markup"?true:false} filename="HTML" language="markup" codeMerge={this.codeMerge}/>
